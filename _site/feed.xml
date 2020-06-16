@@ -5,9 +5,45 @@
     <description>Tech writer | Gamer | Podcaster</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 20:00:19 +0300</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 20:00:19 +0300</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2020 10:51:57 +0300</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2020 10:51:57 +0300</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Embedded Test</title>
+        <description>&lt;p&gt;Here are some pics for a future Uncharted-related post:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; width=&quot;49%&quot; /&gt; &lt;img src=&quot;/assets/images/8.jpg&quot; width=&quot;49%&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/mc2hz3LJhTY&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;huge-divider&quot;&gt;HUGE DIVIDER&lt;/h2&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342693606&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/ndidio&quot; title=&quot;Ndidi O&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Ndidi O&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/ndidio/08-death-letter&quot; title=&quot;08 Death Letter&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;08 Death Letter&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;huge-divider-1&quot;&gt;HUGE DIVIDER&lt;/h2&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342693606&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/ndidio&quot; title=&quot;Ndidi O&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Ndidi O&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/ndidio/08-death-letter&quot; title=&quot;08 Death Letter&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;08 Death Letter&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;huge-divider-2&quot;&gt;HUGE DIVIDER&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://player.twitch.tv/?video=651615319&amp;amp;parent=93997e132818.ngrok.io&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
+
+&lt;!-- ![](/assets/images/8.jpg) ![](/assets/images/8.jpg) --&gt;
+
+</description>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/embedded-test/</link>
+        <guid isPermaLink="true">http://localhost:4000/embedded-test/</guid>
+        
+        <category>tech tag</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
