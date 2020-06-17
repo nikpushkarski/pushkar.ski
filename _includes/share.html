@@ -1,6 +1,6 @@
 <script>
     const root = location.protocol + '//' + location.host;
-    const twitterHref = "https://twitter.com/intent/tweet?text={{ page.title }}&url="
+    const twitterHref = "https://twitter.com/intent/tweet?text={{ page.title }}&url=" + root + "{{ page.url}}"
     const fbHref = "https://facebook.com/sharer.php?u=" + root + "{{ page.url}}"
     // document.getElementById("twitter").setAttribute("href",scrt_var);
 </script>
