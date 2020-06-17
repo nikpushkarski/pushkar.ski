@@ -8,13 +8,14 @@ image: assets/images/11.jpg
 description: "This is a test of how Jekyll works with the embedded media."
 featured: true
 hidden: false
+comments: true
 # rating: 4.5
 ---
 
 Here are some pics for a future Uncharted-related post:
 
 
-<img src="{{ site.baseurl }}/assets/images/8.jpg" width="49%"> <img src="{{ site.baseurl }}/assets/images/8.jpg" width="49%"> 
+<img src="/assets/images/8.jpg" width="49%"> <img src="/assets/images/8.jpg" width="49%"> 
 
 
 <div class="embed-responsive embed-responsive-16by9">

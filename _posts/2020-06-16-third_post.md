@@ -8,6 +8,7 @@ image: assets/images/13.jpg
 description: "This is a test of how Jekyll works with the embedded media."
 featured: true
 hidden: false
+comments: true
 # rating: 4.5
 ---
 
