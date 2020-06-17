@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Embedded Test"
-# author: john
-# categories: [ Jekyll, tutorial ]
+author: nikita
+categories: [ Games, Hello world ]
 tags: [tech tag]
 image: assets/images/11.jpg
 description: "This is a test of how Jekyll works with the embedded media."
