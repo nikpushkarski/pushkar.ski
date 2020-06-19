@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just the third post"
-# author: john
+author: nikita
 # categories: [ Jekyll, tutorial ]
 tags: [tech tag]
 image: assets/images/13.jpg
