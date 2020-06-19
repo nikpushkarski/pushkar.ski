@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Embedded Test"
-author: nikita
 categories: [ Games, Hello world ]
 tags: [tech tag]
 image: assets/images/11.jpg

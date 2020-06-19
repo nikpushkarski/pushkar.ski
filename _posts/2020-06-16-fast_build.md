@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Wanna try that superfast build?"
-author: nikita
 # categories: [ Jekyll, tutorial ]
 tags: [tech tag]
 image: assets/images/12.jpg
