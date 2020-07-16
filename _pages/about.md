@@ -7,7 +7,26 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<img src="{{site.baseurl}}/assets/images/nikita.png" alt="jekyll template mediumish" style="float: left; width: 250px;"/>
+
+
+<style>
+    .main_image {
+        text-align: center;
+    }
+
+    .main_image img {
+        max-width: 250px;
+        float: left;
+    }
+
+    @media (max-width: 500px) {
+        .main_image img {
+            float: none;
+        }
+    }
+</style>
+
+<div class="main_image"><img src="{{site.baseurl}}/assets/images/nikita.png" alt="jekyll template mediumish"/></div>
 
 <p>Hi there! I'm Nikita Pushkarski, a tech writer, passionate web dev learner, and a huge fan of video games. Hence, this blog dedicated to gaming and techy stuff that I'm curious about. Feel free to navigate through categories in the footer or via search bar in the top right corner.</p>
 
