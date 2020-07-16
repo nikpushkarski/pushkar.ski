@@ -28,9 +28,9 @@ comments: true
 
 <div class="main_image"><img src="{{site.baseurl}}/assets/images/nikita.png" alt="jekyll template mediumish"/></div>
 
-<p>Hi there! I'm Nikita Pushkarski, a tech writer, passionate web dev learner, and a huge fan of video games. Hence, this blog dedicated to gaming and techy stuff that I'm curious about. Feel free to navigate through categories in the footer or via search bar in the top right corner.</p>
+<p>Hi there! I'm Nikita Pushkarski, a tech writer, passionate web dev learner, and a huge fan of video games. Hence, this blog is dedicated to gaming and techy stuff that I'm curious about. You can navigate through categories in the footer or via search bar in the top right corner.</p>
 
-<p>Occasionally, I run small podcasts, but it's not the case at the moment :) You'll see an appropriate post here if I release something new in form of podcast.</p>
+<p>Occasionally, I run small podcasts, but it's not the case at the moment :) You'll see an appropriate post here if I release something new in the form of podcast.</p>
 
 <p><strong>I am open for freelance projects and creative collaboration.</strong> Feel free to contact me via:
 <ul>
