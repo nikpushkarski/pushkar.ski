@@ -2,7 +2,7 @@
 layout: post
 title:  "Embedded Test"
 categories: [ Games, Hello world ]
-tags: [tech tag]
+# tags: [tech tag]
 image: assets/images/11.jpg
 description: "This is a test of how Jekyll works with the embedded media."
 featured: false
