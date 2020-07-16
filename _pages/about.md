@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
 permalink: /about
 comments: true
 ---
@@ -8,16 +7,21 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<img src="{{site.baseurl}}/assets/images/nikita.png" alt="jekyll template mediumish" style="float: left; width: 250px;"/>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>Hi there! I'm Nikita Pushkarski, a tech writer, passionate web dev learner, and a huge fan of video games. Hence, this blog dedicated to gaming and techy stuff that I'm curious about. Feel free to navigate through categories in the footer or via search bar in the top right corner.</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Occasionally, I run small podcasts, but it's not the case at the moment :) You'll see an appropriate post here if I release something new in form of podcast.</p>
 
-<h4>Questions or bug reports?</h4>
+<p><strong>I am open for freelance projects and creative collaboration.</strong> Feel free to contact me via:
+<ul>
+<li><a href="mailto:nikita@pushkar.ski?&subject=Project%2FCollaboration%20Inquiry" target="_blank">Email</a></li>
+<li><a href="https://twitter.com/npushkarski" target="_blank">Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/pushkarski/" target="_blank">LinkedIn</a></li>
+</ul> 
+</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+
 
 </div>
 
@@ -26,9 +30,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve this blog.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
 
 </div>
 </div>
