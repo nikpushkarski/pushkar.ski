@@ -11,6 +11,8 @@ disqus: 'pushkarski'
 include: ["_pages"]
 permalink: /:title/
 twitter_username: npushkarski
+twitter:
+  username: npushkarski
 
 # Authors
 authors:
