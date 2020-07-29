@@ -1,5 +1,7 @@
 ---
 layout: page
+title:  "Who's Nikita Pushkarski?"
+description: "A few words about me and this blog"
 permalink: /about
 comments: true
 ---
