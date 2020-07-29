@@ -1,8 +1,8 @@
 <script>
     const root = location.protocol + '//' + location.host;
-    const twitterHref = "https://twitter.com/intent/tweet?text={{ page.title }}&url=" + root + "{{ page.url}}"
-    const fbHref = "https://facebook.com/sharer.php?u=" + root + "{{ page.url}}"
-    const linkedinHref = "https://www.linkedin.com/shareArticle?mini=true&url=" + root + "{{ page.url }}"
+    const twitterHref = "https://twitter.com/intent/tweet?text={{ page.title }}&url=" + root + "{{ page.url}}";
+    const fbHref = "https://facebook.com/sharer.php?u=" + root + "{{ page.url}}";
+    const linkedinHref = "https://www.linkedin.com/shareArticle?mini=true&url=" + root + "{{ page.url }}";
 </script>
 <div class="share sticky-top sticky-top-offset">
     <p>
@@ -12,19 +12,21 @@
         <li class="ml-1 mr-1">
             <!-- <a id="twitterShare" target="_blank" href="" onclick="window.open(twitterHref, 'twitter-share', 'width=550,height=235');return false;"> -->
             <a id="twitterShare" target="_blank" href="">
-                
+
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a id="fbShare" target="_blank" href="" onclick="window.open(fbHref, 'facebook-share', 'width=550,height=435');return false;">
+            <a id="fbShare" target="_blank" href=""
+                onclick="window.open(fbHref, 'facebook-share', 'width=550,height=435');return false;">
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a id="linkedinShare" target="_blank" href="" onclick="window.open(linkedinHref, 'width=550,height=435');return false;">
+            <a id="linkedinShare" target="_blank" href=""
+                onclick="window.open(linkedinHref, 'width=550,height=435');return false;">
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
@@ -36,18 +38,16 @@
     </div>
     <ul>
         <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
+            <a class="small smoothscroll" href="#disqus_thread"></a>
         </li>
     </ul>
     {% endif %}
 </div>
-
 <script>
-    const root = location.protocol + '//' + location.host;
-    const twitterShare = document.getElementById("twitterShare")
-    twitterShare.href = "https://twitter.com/intent/tweet?text={{ page.title }}&url=" + root + "{{ page.url}}"
-    const fbShare = document.getElementById("fbShare")
-    fbShare.href = "https://facebook.com/sharer.php?u=" + root + "{{ page.url}}"
-    const linkedinShare = document.getElementById("linkedinShare")
-    linkedinShare.href = "https://www.linkedin.com/shareArticle?mini=true&url=" + root + "{{ page.url }}"
+    const twitterShare = document.getElementById("twitterShare");
+    twitterShare.href = "https://twitter.com/intent/tweet?text={{ page.title }}&url=" + root + "{{ page.url}}";
+    const fbShare = document.getElementById("fbShare");
+    fbShare.href = "https://facebook.com/sharer.php?u=" + root + "{{ page.url}}";
+    const linkedinShare = document.getElementById("linkedinShare");
+    linkedinShare.href = "https://www.linkedin.com/shareArticle?mini=true&url=" + root + "{{ page.url }}";
 </script>

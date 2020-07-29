@@ -19,31 +19,6 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-<script>
-    const root = location.protocol + '//' + location.host;
-</script>
-
-<!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter.username }}">
-<meta name="twitter:creator" content="@{{ page.author }}">
-<meta name="twitter:title"   content="{{ page.title }}">
-
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<!-- <meta name="twitter:image" content=root+"{{ page.image }}"> -->
-<meta name="twitter:image" content= `${root}/{{ page.image }}`>
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.logo }}">
-{% endif %}
-<!-- end of Twitter cards -->
-
 
 </head>
 
@@ -212,5 +187,6 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+<script src="{{ site.baseurl }}/assets/js/share.js"></script>
 </body>
 </html>
