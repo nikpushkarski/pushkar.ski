@@ -13,8 +13,14 @@
 
 {% seo %}
 
+<!-- Twitter cards: additional conditions -->
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ site.deployUrl }}{{ page.image }}">
-
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{site.baseurl}}/assets/images/nikita.png">
+<!-- End of Twitter cards -->
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
