@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Switching from Namecheap to Zoho Mail"
+categories: [ Tech, Experience ]
+# tags: [tech tag]
+image: assets/images/11.jpg
+description: "Why and how I switched to another email hosting provider"
+featured: false
+hidden: true
+comments: true
+# rating: 4.5
+---
+
 # Switching from Namecheap to Zoho Mail
 
 "New Problems Require New Solutions", I'd say paraphrasing a popular meme. I bought a **.ski** domain and registered a personal email with it in June, 2020. Whereas buying a domain wasn't new to me, creating a personal email definitely **was**. The main part of that activity was choosing an email hosting provider, so choice fell on the cheapest one, Namecheap, for about 9 USD a year. At first it seemed totally fine, but it appeared that the devil was in the details.
@@ -68,3 +81,7 @@ What I can say for sure is that:
 Thanks for reading, stay safe and keep cool!
 
  
+
+ 
+
+
