@@ -3,15 +3,13 @@ layout: post
 title:  "Switching from Namecheap to Zoho Mail"
 categories: [ Tech, Experience ]
 # tags: [tech tag]
-image: assets/images/11.jpg
+image: assets/images/namecheap_zoho_title.jpg
 description: "Why and how I switched to another email hosting provider"
 featured: true
 hidden: false
 comments: true
 # rating: 4.5
 ---
-
-# Switching from Namecheap to Zoho Mail
 
 “New Problems Require New Solutions,” to paraphrase a popular meme. In June 2020, I bought a **.ski** domain and registered a personal email along with it. Whereas buying a domain wasn’t new to me, creating a personal email definitely **was**. The chief aspect of this activity was choosing an email hosting provider, so the choice fell on the cheapest one, Namecheap, for about $9 a year. At first, it seemed totally fine, but the devil was in the details.
 
@@ -42,19 +40,25 @@ Ok then. I’d looked at a bunch of “The Best 5/7/10 Email Hosting Providers�
 Even though I decided to leave this provider, I cannot deny the fact that they have comprehensive documentation. That said, I didn’t have any issues while backing up my emails. I just followed [this guide](https://www.namecheap.com/support/knowledgebase/article.aspx/9454/2226/how-to-back-up-and-restore-emails-in-private-email-webmail/) to save all the incoming messages as one file. Outbound messages weren’t stored on Namecheap’s side, as I’ve been using Gmail for sending emails; hence, there was no possibility to retrieve emails sent from Namecheap’s web client.
 I’ve backed up the emails sent using Gmail by just forwarding them as an attachment. Not the most elegant solution but the fastest one, especially in my case of just 39 emails.
 
-![forward_as](..\assets\images\forward_as.png)
+{:refdef: style='text-align: center;'}
+![forward_as](../assets/images/forward_as.png)
+{:refdef}
 
 ## Zoho Setup 
 
 At first, I stumbled upon a little bug on their side: during registration, I specified my contact email (a Gmail one) but bumped into an error: “The given email address already exists.” Well, that was a reminder that I already had an account there. I had totally forgotten about it. So I tried to restore my password using this Gmail address, but no luck — I didn’t receive an email for password reset. As a result, I couldn’t register, and I couldn’t restore access.
 
+{:refdef: style='text-align: center;'}
 ![zoho_error](..\assets\images\zoho_error.png)
+{:refdef}
 
 A few hours later, a reset message arrived, but the link in there was already expired. I requested another and got it immediately this time, successfully changed the password, logged in to my Zoho account, and started to set up Zoho Mail.
 
 I’ve got to mention that Zoho’s docs are great, too, and they provided me with an advanced UX in comparison with Namecheap: besides an onboarding email with all the steps required, they implemented a straightforward, step-by-step interface to ensure that a user wouldn’t skip any required actions. As a more-or-less advanced user (or rather, a knowing-exactly-what-he-wants user), I first specified TXT and MX records; i.e., I performed steps 1 and 3. I didn’t add users and/or organizations, though.
 
+{:refdef: style='text-align: center;'}
 ![zoho_onboarding](..\assets\images\zoho_onboarding.png)
+{:refdef}
 
 All this time, I’d been on a free plan, which is important to emphasize: Zoho Mail is **fully** operational with no charges. They gave me access to a web client and mobile apps as well. However, my next step was a subscription to the Lite plan, which allowed me to enable IMAP access. I used this feature to gain access to my emails via Gmail on Android.
 
@@ -64,13 +68,17 @@ All this time, I’d been on a free plan, which is important to emphasize: Zoho 
 
 The last thing to do was upload my email backups. I already have a file with inbound messages, so I just uploaded it using the **Import/Export** functionality in the Zoho web client settings and set them to **Inbox**. Next, I opened the message with 39 .eml files, downloaded them as an archive, uploaded this archive, and added these emails to the **Sent** folder. Nice and easy.
 
+{:refdef: style="text-align: center;"} 
 ![zoho_import](..\assets\images\zoho_import.png)
+{:refdef}
 
 ## Spotify: a Litmus Test
 
 During my onboarding, I received a message from Spotify inviting me to create my first playlist. The fact is, this email came directly to my **Inbox**, not to the **Spam** folder; this can already be called a success! Anyway, I came up with an idea to recreate the original case mentioned at the beginning of this article, so I deleted my Spotify account in order to create a new one with the same email, but… doing this requires waiting for 14 days :) So I wasn’t able to do it immediately. During the closing process, Spotify sent me a bunch of emails, and all of them had arrived immediately to a web client. Into **Inbox**, of course.
 
+{:refdef: style='text-align: center;'}
 ![spotify](..\assets\images\spotify.png)
+{:refdef}
 
 
 ## To Be Continued
