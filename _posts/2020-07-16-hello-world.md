@@ -6,7 +6,7 @@ categories: [Games, Tech]
 image: assets/images/hello_world.jpg
 description: "The very first post on this blog"
 featured: true
-hidden: true
+hidden: false
 comments: true
 # rating: 4.5
 ---
