@@ -8,6 +8,7 @@ description: "Why and how I switched to another email hosting provider"
 featured: true
 hidden: false
 comments: true
+# toc: true
 # rating: 4.5
 ---
 
