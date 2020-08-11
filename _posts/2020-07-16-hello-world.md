@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Hello World!"
-categories: [Games, Tech]
+categories: [Gaming, Tech]
 # tags: [tech tag]
 image: assets/images/hello_world.jpg
 description: "The very first post on this blog"
-featured: true
+featured: false
 hidden: false
 comments: true
 # rating: 4.5
