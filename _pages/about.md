@@ -36,7 +36,7 @@ comments: true
 
 <p><strong>I am open for freelance projects and creative collaboration.</strong> Feel free to contact me via:
 <ul>
-<li><a href="mailto:nikita@pushkar.ski?&subject=Project%2FCollaboration%20Inquiry" target="_blank">Email</a></li>
+<li><a href="mailto:neskuchaev@gmail.com?&subject=Project%2FCollaboration%20Inquiry" target="_blank">Email</a></li>
 <li><a href="https://twitter.com/npushkarski" target="_blank">Twitter</a></li>
 <li><a href="https://www.linkedin.com/in/pushkarski/" target="_blank">LinkedIn</a></li>
 </ul> 
